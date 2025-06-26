@@ -1,3 +1,5 @@
+import { Component } from 'react'
+
 export default class ShopItemClass extends Component {
   constructor(props) {
     super(props);
