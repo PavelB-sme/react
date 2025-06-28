@@ -1,6 +1,7 @@
 import moment from 'moment';
 import React, { JSX } from 'react';
 import DataPicker from './DataPicker/Datapicker';
+import genetive from '../types/moment-genitive';
 
 const genitiveMonths = [
   'января',
